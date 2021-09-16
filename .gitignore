@@ -1,4 +1,6 @@
-/target/
+*/target/
+moneylaunderingtool/target
+moneylaunderingapi/target 
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
